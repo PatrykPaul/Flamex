@@ -1,6 +1,6 @@
 # FLAMEX Company Analysis 2023
 
-![FLAMEX Logo](https://github.com/SnajperHS/Flamex/blob/main/logo.PNG?raw=true)
+![FLAMEX Logo](https://github.com/SnajperHS/Flamex/blob/main/Assets/logo.PNG?raw=true)
 
 ## 📊 Project Overview
 
@@ -19,21 +19,21 @@ The analysis includes several key sections:
 ## 📅 Key Excel Sheets
 
 - **Dashboard Sheet**: A comprehensive visual dashboard summarizing key metrics like revenue, profit, and order trends, providing quick insights into the company's performance.
-  ![Dashboard](https://github.com/SnajperHS/Flamex/blob/main/Dashboard.PNG?raw=true)
+  ![Dashboard](https://github.com/SnajperHS/Flamex/blob/main/Assets/Dashboard.PNG?raw=true)
   
 - **Monthly Revenue Sheet**: Displays a month-by-month breakdown of revenue for each service.
    
   ## 2021
   
-  ![Revenue Sheet_21](https://github.com/SnajperHS/Flamex/blob/main/21.PNG?raw=true)
+  ![Revenue Sheet_21](https://github.com/SnajperHS/Flamex/blob/main/Assets/21.PNG?raw=true)
   
   ## 2022
   
-  ![Revenue Sheet_22](https://github.com/SnajperHS/Flamex/blob/main/22.PNG?raw=true)
+  ![Revenue Sheet_22](https://github.com/SnajperHS/Flamex/blob/main/Assets/22.PNG?raw=true)
   
   ## 2023
   
-  ![Revenue Sheet_23](https://github.com/SnajperHS/Flamex/blob/main/23.PNG?raw=true)
+  ![Revenue Sheet_23](https://github.com/SnajperHS/Flamex/blob/main/Assets/23.PNG?raw=true)
 
 
 ## 🛠 Tools Used
