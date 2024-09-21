@@ -22,7 +22,7 @@ The analysis includes several key sections:
   ![Dashboard](https://github.com/SnajperHS/Flamex/blob/main/Dashboard.PNG?raw=true)
   
 - **Monthly Revenue Sheet**: Displays a month-by-month breakdown of revenue for each service.
-- 
+   
   ## 2021
   
   ![Revenue Sheet_21](https://github.com/SnajperHS/Flamex/blob/main/21.PNG?raw=true)
