@@ -19,7 +19,7 @@ The analysis includes several key sections:
 ## 📅 Key Excel Sheets
 
 - **Dashboard Sheet**: A comprehensive visual dashboard summarizing key metrics like revenue, profit, and order trends, providing quick insights into the company's performance.
-  ![Dashboard](https://github.com/SnajperHS/Flamex/blob/main/Assets/Dashboard.PNG?raw=true)
+  ![Dashboard](https://github.com/SnajperHS/Flamex/blob/main/Assets/dashboard.PNG?raw=true)
   
 - **Monthly Revenue Sheet**: Displays a month-by-month breakdown of revenue for each service.
    
